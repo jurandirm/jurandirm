@@ -1,8 +1,12 @@
 ### Olá eu sou o Jurandir Marinho 👋
 
+##
+
 - 🔭 Atualmente trabalho como Análista de Suporte.
 - 🌱 Atualmente estou estudando JavaScript, Python e Linux.
 - 😄 Pronomes: ele/dele.
+
+##
 
 <a href="https://github.com/jurandirm">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=jurandirm&show_icons=true&theme=transparent" />
@@ -10,10 +14,32 @@
 <a href="https://github.com/jurandirm">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurandirm&layout=compact"/>
 </a>
-<!--
-![Jurandir GitHub stats](https://github-readme-stats.vercel.app/api?username=jurandirm&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jurandirm&layout=compact)](https://github.com/jurandirm/github-readme-stats)
--->
+
+##
+
+<div>
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />
+          
+</div>
+
+##
+
+<div>
+  <a href="https://br.linkedin.com/in/jurandir-marinho-842ba547">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>  
+          
 <!--
 **jurandirm/jurandirm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
