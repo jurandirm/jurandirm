@@ -5,10 +5,10 @@
 - 😄 Pronomes: ele/dele.
 
 <a href="https://github.com/jurandirm">
-  <img align="left" height="140em" src="https://github-readme-stats.vercel.app/api?username=jurandirm&show_icons=true&theme=transparent" />
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=jurandirm&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/jurandirm">
-  <img align="left" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurandirm&layout=compact"/>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurandirm&layout=compact"/>
 </a>
 <!--
 ![Jurandir GitHub stats](https://github-readme-stats.vercel.app/api?username=jurandirm&show_icons=true&theme=transparent)
