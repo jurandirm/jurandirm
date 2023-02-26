@@ -3,7 +3,7 @@
 ##
 
 - 🔭 Atualmente trabalho como Análista de Suporte.
-- 🌱 Atualmente estou estudando JavaScript, Python e Linux.
+- 🌱 Atualmente estou estudando C#, JavaScript e Python.
 - 😄 Pronomes: ele/dele.
 
 ##
@@ -24,6 +24,7 @@ Languages and tools
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />        
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
