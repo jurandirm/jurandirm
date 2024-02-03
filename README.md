@@ -3,7 +3,7 @@
 ##
 
 - 🔭 Atualmente trabalho como Análista de Suporte.
-- 🌱 Atualmente estou estudando C#, JavaScript e Python.
+- 🌱 Atualmente estou estudando: IA, Azure, CyberSecurity, C#, JavaScript e Python.
 - 😄 Pronomes: ele/dele.
 
 ##
@@ -12,7 +12,7 @@
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=jurandirm&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/jurandirm">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurandirm&layout=compact"/>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurandirm&layout=compact&theme=transparent"/>
 </a>
 
 ##
@@ -28,6 +28,7 @@ Languages and tools
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
