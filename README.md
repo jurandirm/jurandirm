@@ -14,9 +14,9 @@
 <a href="https://github.com/jurandirm">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurandirm&layout=compact&theme=transparent"/>
 </a>
--->
-##
 
+##
+-->
 Languages and tools
 
 <div>
